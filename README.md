@@ -2,6 +2,8 @@
 
 ![test](img/test2.gif)
 
+#### https://jishuin.proginn.com/p/763bfbd7c1fd 来源
+
 ## 三件事
 
 1. 原作者 *@whalefell* 為保障自身安全及規避風險,於 `2022/7/6` 將本倉庫移交給我.至此,本倉庫所有事務與原作者無關.
